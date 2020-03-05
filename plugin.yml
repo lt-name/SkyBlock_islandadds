@@ -1,0 +1,7 @@
+name: islandadds
+author: 若水
+api:
+  - 3.0.0
+main: islandadds\adds
+version: 1.0.0
+load: POSTWORLD
